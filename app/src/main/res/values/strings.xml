@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment_contact_us</string>
+    <string name="contact_us">contact_us</string>
+    <string name="title">Title</string>
+    <string name="send">Send</string>
+    <string name="feedback">Feedback</string>
+    <string name="References">References</string>
+    <string name="maps">maps</string>
+</resources>
